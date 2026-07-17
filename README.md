@@ -31,31 +31,14 @@ Distributed Systems · System Design · Concurrency · Idempotency · Observabil
 
 ## Featured Work
 
+### [Distributed Order Platform](https://github.com/ihrutvik/distributed-order-platform)
+Production-style Java 17 and Spring Boot service demonstrating durable order persistence, Kafka-based asynchronous processing, Redis-assisted idempotency, Docker Compose infrastructure, operational endpoints, and CI.
+
 ### [Service Manager](https://github.com/ihrutvik/service-manager-backend-swisscom)
 Backend service for managing service-related workflows, built with a structured API-first architecture.
 
 ### [Go Client Library](https://github.com/ihrutvik/golang-client-swisscom)
 A Go client project demonstrating API integration, clean package organization, and maintainable client-side abstractions.
-
-### [Simple Group Chat](https://github.com/ihrutvik/simple-group-chat)
-A complete group-chat application with REST APIs, authentication, persistence, pagination, automated tests, and a small web interface.
-
-## Currently Building
-
-### Distributed Order Processing Platform
-
-A compact production-style Java project that demonstrates the backend skills recruiters usually cannot see in coding-problem repositories:
-
-- Spring Boot REST APIs
-- PostgreSQL persistence
-- Kafka-based asynchronous order processing
-- Redis-backed idempotency and caching
-- Retry and dead-letter handling
-- Docker Compose local environment
-- Unit and integration tests
-- Metrics, health checks, and structured logging
-
-The goal is to show a realistic order lifecycle from API request to durable processing while keeping the system small enough to understand quickly.
 
 ## What I Care About
 
