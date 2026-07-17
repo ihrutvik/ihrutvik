@@ -10,7 +10,7 @@ My work focuses on designing production-grade APIs, asynchronous workflows, resi
 - 🧩 Previously worked on payment and customer platforms at **Airtel Africa**
 - ⚙️ Strong in **Java, Spring Boot, AWS, SQL, Kafka, Redis, and distributed systems**
 - 🌍 Open to backend engineering opportunities in **Germany and Europe**
-- 💬 Interested in system design, reliability, concurrency, and scalable architecture
+- 💬 Interested in system design, reliability, concurrency, scalable architecture, and applied AI agents
 
 ## Tech Stack
 
@@ -33,6 +33,9 @@ Distributed Systems · System Design · Concurrency · Idempotency · Observabil
 
 ### [Distributed Order Platform](https://github.com/ihrutvik/distributed-order-platform)
 Production-style Java 17 and Spring Boot service demonstrating durable order persistence, Kafka-based asynchronous processing, Redis-assisted idempotency, Docker Compose infrastructure, operational endpoints, and CI.
+
+### [On-Call AI Agent](https://github.com/ihrutvik/ai-agents)
+A backend-focused incident triage agent that analyzes logs, metrics, and recent deployments; groups operational signals; estimates severity; and returns evidence-backed root-cause hypotheses and safe debugging actions.
 
 ### [Service Manager](https://github.com/ihrutvik/service-manager-backend-swisscom)
 Backend service for managing service-related workflows, built with a structured API-first architecture.
