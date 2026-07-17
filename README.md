@@ -70,7 +70,7 @@ Readable code with meaningful tests
 ## Connect
 
 - GitHub: [@ihrutvik](https://github.com/ihrutvik)
-- LinkedIn: Add your LinkedIn profile URL here
+- LinkedIn: https://www.linkedin.com/in/hrutvik-nagrale/
 
 ---
 
