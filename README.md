@@ -37,11 +37,11 @@ Production-style Java 17 and Spring Boot service demonstrating durable order per
 ### [On-Call AI Agent](https://github.com/ihrutvik/ai-agents)
 A backend-focused incident triage agent that analyzes logs, metrics, and recent deployments; groups operational signals; estimates severity; and returns evidence-backed root-cause hypotheses and safe debugging actions.
 
+### [Retry Advisor API](https://github.com/ihrutvik/retry-advisor-api)
+A small Java service that prevents unsafe blind retries by evaluating HTTP failures, operation type, attempt count, and idempotency protection before recommending retry, review, or stop decisions.
+
 ### [Service Manager](https://github.com/ihrutvik/service-manager-backend-swisscom)
 Backend service for managing service-related workflows, built with a structured API-first architecture.
-
-### [Go Client Library](https://github.com/ihrutvik/golang-client-swisscom)
-A Go client project demonstrating API integration, clean package organization, and maintainable client-side abstractions.
 
 ## What I Care About
 
