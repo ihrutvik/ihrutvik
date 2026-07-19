@@ -15,10 +15,10 @@ My work focuses on designing production-grade APIs, asynchronous workflows, resi
 ## Tech Stack
 
 **Languages**  
-Java · SQL · Go · JavaScript
+Java · TypeScript · SQL · Go · JavaScript
 
 **Backend**  
-Spring Boot · REST APIs · Microservices · Hibernate/JPA · Maven · Gradle
+Spring Boot · NestJS · REST APIs · Microservices · Hibernate/JPA · Maven · Gradle
 
 **Cloud & Infrastructure**  
 AWS Lambda · Step Functions · Docker · Kubernetes · Jenkins · GitHub Actions
@@ -37,11 +37,11 @@ Production-style Java 17 and Spring Boot service demonstrating durable order per
 ### [On-Call AI Agent](https://github.com/ihrutvik/ai-agents)
 A backend-focused incident triage agent that analyzes logs, metrics, and recent deployments; groups operational signals; estimates severity; and returns evidence-backed root-cause hypotheses and safe debugging actions.
 
+### [Webhook Reliability Gateway](https://github.com/ihrutvik/webhook-reliability-gateway)
+A TypeScript and NestJS service for signed webhook ingestion, duplicate prevention, retry classification, exponential backoff, delivery history, dead-letter handling, and safe replay.
+
 ### [Retry Advisor API](https://github.com/ihrutvik/retry-advisor-api)
 A small Java service that prevents unsafe blind retries by evaluating HTTP failures, operation type, attempt count, and idempotency protection before recommending retry, review, or stop decisions.
-
-### [Service Manager](https://github.com/ihrutvik/service-manager-backend-swisscom)
-Backend service for managing service-related workflows, built with a structured API-first architecture.
 
 ## What I Care About
 
