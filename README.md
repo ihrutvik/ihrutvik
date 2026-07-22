@@ -38,7 +38,7 @@ Production-style Java 17 and Spring Boot service demonstrating durable order per
 A backend-focused incident triage agent that analyzes logs, metrics, and recent deployments; groups operational signals; estimates severity; and returns evidence-backed root-cause hypotheses and safe debugging actions.
 
 ### [Webhook Reliability Gateway](https://github.com/ihrutvik/webhook-reliability-gateway)
-A TypeScript and NestJS service for signed webhook ingestion, duplicate prevention, retry classification, exponential backoff, delivery history, dead-letter handling, and safe replay.
+A TypeScript and NestJS service with signed ingestion, durable event storage, automatic HTTP delivery, duplicate prevention, exponential retries, timeouts, delivery history, dead-letter handling, and safe replay.
 
 ### [Retry Advisor API](https://github.com/ihrutvik/retry-advisor-api)
 A small Java service that prevents unsafe blind retries by evaluating HTTP failures, operation type, attempt count, and idempotency protection before recommending retry, review, or stop decisions.
