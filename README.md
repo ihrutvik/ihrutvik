@@ -2,7 +2,7 @@
 
 ### Backend Software Engineer | Java · Spring Boot · AWS · Distributed Systems
 
-I am a backend engineer with **4+ years of experience** building reliable, scalable services for e-commerce, payments, order processing, and customer platforms.
+I am a backend engineer with **4.7  years of experience** building reliable, scalable services for e-commerce, payments, order processing, and customer platforms.
 
 My work focuses on designing production-grade APIs, asynchronous workflows, resilient distributed systems, and services that remain correct under retries, failures, and high concurrency.
 
